@@ -1,7 +1,7 @@
 
 <!-- Título com efeito de digitação -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&center=true&vCenter=true&width=800&lines=Luis Eduardo;Desenvolvedor+%7C+Apaixonado+por+Open+Source;Bem-vindo+ao+meu+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&center=true&vCenter=true&width=800&lines=Luis+Eduardo;Desenvolvedor+%7C+Apaixonado+por+Open+Source;Bem-vindo+ao+meu+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 <!-- Badges rápidos -->
