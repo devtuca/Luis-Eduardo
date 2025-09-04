@@ -39,19 +39,6 @@
   <img src="https://streak-stats.demolab.com?user=devtuca&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-
-### 🐍 Snake das contribuições
-<!-- dark/light automático -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devtuca/devtuca/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devtuca/devtuca/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/devtuca/devtuca/output/github-snake.svg" />
-  </picture>
-</p>
-
----
 
 ### 📫 Contato
 - **LinkedIn:** [https://www.linkedin.com/in/seu-usuario  ](https://www.linkedin.com/in/luis-eduardo-50765a382/)
