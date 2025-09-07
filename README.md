@@ -14,7 +14,6 @@
 ---
 
 ### 👋 Sobre mim
-- 🔭 Atualmente em busca de um emprego.
 - 🌱 Estudando: **Vue, Spring**
 
 ---
